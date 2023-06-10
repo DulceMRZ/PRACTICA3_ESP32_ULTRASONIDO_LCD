@@ -123,7 +123,7 @@ lcd.setCursor(0, 0);
 
 2. Instalar la libreria de **DHT sensor library for ESPx** como se muestra en la siguente imagen.
 
-![](https://github.com/DulceMRZ/PRACTICA_2_DHT22_CON_LCD/blob/main/ESP32%20CON%20DHT22%20Y%20LCD%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%2010_06_2023%2007_51_57%20a.%20m..png?raw=true)
+![](https://github.com/DulceMRZ/PRACTICA3_ESP32_ULTRASONIDO_LCD/blob/main/PRACTICA%203%20ESP32%20ULTRASONIDO%20+%20LCD%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%2010_06_2023%2009_05_53%20a.%20m..png?raw=true)
 
 ## Paso 3
 
@@ -131,19 +131,19 @@ lcd.setCursor(0, 0);
 
 3.1 Es importante considerar que para **ESP32** se maneja un ```Voltaje de trabajo 3.3 VDC```. 
 
-a) Observar conexión de pin del Sensor al **pin 1** de **ESP32**. 
+a) Observar conexión de  **ESP32**. 
 
-![](https://github.com/DulceMRZ/PRACTICA_1_DHT22/blob/main/Practica_1_DTH22%20diagrama%20(1).PNG?raw=true)
+![](https://github.com/DiegoJm10/PracticaESP32conULTRASONICO/blob/main/ESP32%20ULTRASONICO%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%2009_06_2023%2008_32_06%20a.%20m..png?raw=true)
 
 b) Conexión de pin 2 (GND) 
 
 
-![](https://github.com/DulceMRZ/PRACTICA_1_DHT22/blob/main/Practica_1_DTH22%20diagrama%20(2)..PNG?raw=true)
+![](e)
 
 c) Conexión pin 3 (pin 15) 
 
 
-![](https://github.com/DulceMRZ/PRACTICA_1_DHT22/blob/main/Practica_1_DTH22%20diagrama..png?raw=true)
+![]()
 
 d) Conexión de LCD 
 
@@ -152,9 +152,9 @@ d) Conexión de LCD
 
 
 
-e) Conexión de LCD más ESP32 y DHT22
+e) Conexión de LCD más ESP32 y SENSOR
 
-![](https://github.com/DulceMRZ/PRACTICA_2_DHT22_CON_LCD/blob/main/Captura1.PNG?raw=true)
+![](https://github.com/DulceMRZ/PRACTICA3_ESP32_ULTRASONIDO_LCD/blob/main/Captura1.PNG?raw=true)
 
 
 
@@ -162,14 +162,15 @@ e) Conexión de LCD más ESP32 y DHT22
 
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
-3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT22** 
+3. Colocar la temperatura y humedad dando *doble click* al sensor **** 
 
 ## 6. Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DulceMRZ/PRACTICA_2_DHT22_CON_LCD/blob/main/ESP32%20CON%20DHT22%20Y%20LCD%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%2010_06_2023%2007_32_34%20a.%20m..png?raw=true)
+![]()
 
+![](https://github.com/DulceMRZ/PRACTICA3_ESP32_ULTRASONIDO_LCD/blob/main/Captura2.PNG?raw=true)
  
  **Comenatrio adicional**: Puedes programar la información de la siguiente manera: 
  
