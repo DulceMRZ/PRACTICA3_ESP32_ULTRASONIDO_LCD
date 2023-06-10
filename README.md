@@ -1,4 +1,4 @@
-# Practica 3_ ESP32 con DTH22 con Ultrasonido + LCD
+# Practica 3_ ESP32 con Sensor de Ultrasonido + LCD
 
 
 En esta práctica podemos programar una ESP32 con un ultrasonido, con visualización en datos en LCD.
@@ -127,7 +127,7 @@ lcd.setCursor(0, 0);
 
 ## Paso 3
 
-3. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguentes imagenes:
+3. Hacer la conexion de **HC-SR04 Ultrasonic distance sensor** con la **ESP32** como se muestra en la siguentes imagenes:
 
 3.1 Es importante considerar que para **ESP32** se maneja un ```Voltaje de trabajo 3.3 VDC```. 
 
