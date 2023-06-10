@@ -1,4 +1,4 @@
-# Practica 1_ ESP32 con DTH22 con Ultrasonido + LCD
+# Practica 3_ ESP32 con DTH22 con Ultrasonido + LCD
 
 
 En esta práctica podemos programar una ESP32 con un ultrasonido, con visualización en datos en LCD.
@@ -16,7 +16,7 @@ En esta práctica podemos programar una ESP32 con un ultrasonido, con visualizac
 
 ## 1. Introducción
 
-La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un ultrasonido (```DTH22```).
+La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un ultrasonido (```HC-SR04 Ultrasonic distance sensor```).
 ### 1.1 Descripción
   
  
@@ -25,7 +25,7 @@ La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en est
 
 ## 2. Objetivo 
 
-Poder diseñar un diagrama con sensor DHT22 de temperatura y humedad que se utilice para medir la temperatura y la humedad relativa del ambiente en el que se encuentra, mediante la utilización de una ESP32.
+Poder diseñar un diagrama con HC-SR04 Ultrasonic distance sesor, mediante la utilización de una ESP32.
 
 
 ## 3. Material Requerido
